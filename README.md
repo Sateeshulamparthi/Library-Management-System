@@ -1,2 +1,2 @@
-# 21A31A05C9Project
+# Librabry Management System 
 In this task , the implementation of Library Management System is designed. The task involves extending a Library Management System implemented in Python by introducing a new class, Subscription, to represent the subscription status of library members. Additionally, the Member class is modified to include a Subscription instance, and the borrowing functionality is updated to consider the expiration of subscriptions.
